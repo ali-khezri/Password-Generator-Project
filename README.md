@@ -8,7 +8,7 @@ Generates random passwords with configurable length and character types, shows a
 ## Demo
 Replace the placeholder below with your live demo URL (GitHub Pages or other host):
 
-**Live demo:** `https://password-generator-project-ali-khezri.netlify.app/`
+**Live demo:** https://password-generator-project-ali-khezri.netlify.app/
 
 ---
 
